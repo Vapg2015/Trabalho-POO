@@ -1,0 +1,30 @@
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.exe.config
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.exe
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.pdb
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csprojAssemblyReference.cache
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.Properties.Resources.resources
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csproj.GenerateResource.cache
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.exe
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.pdb
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmMain.resources
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmAdd.resources
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmLogin.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.exe.config
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.exe
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\bin\Debug\Estoque de Produtos.pdb
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\bin\Debug\SistemaEstoque.Banco.dll
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\bin\Debug\SistemaEstoque.Banco.pdb
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csprojAssemblyReference.cache
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmAdd.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmLogin.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmMain.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmSearch.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.Properties.Resources.resources
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csproj.GenerateResource.cache
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.csproj.CopyComplete
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.exe
+C:\Users\vgalv\source\repos\EstoqueDeProdutos2\Estoque de Produtos\obj\Debug\Estoque de Produtos.pdb
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmBusca.resources
+C:\Users\vgalv\source\repos\Estoque de Produtos2\Estoque de Produtos\obj\Debug\Estoque_de_Produtos.frmAlterar.resources

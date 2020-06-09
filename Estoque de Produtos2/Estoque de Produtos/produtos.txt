@@ -1,0 +1,12 @@
+ID:1EF8
+Nome:Caneta
+Quantidade:1000
+Marca:Bic
+Data de Entrada:06/06/2020
+Data de Validade:--
+ID:3AAF
+Nome:Bis
+Quantidade:400
+Marca:Lacta
+Data de Entrada:06/06/2020
+Data de Validade:06/06/2025
